@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /DG-Resume.pdf
+Allow: /
+
