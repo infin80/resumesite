@@ -152,11 +152,12 @@
                         <div class="info">
                           <!--                    <button class="reset"><i class="fa fa-power-off "></i></button>-->
                           <h3 itemprop="name">David Grant</h3>
-                          <h2>Looking for a... <i class="fa fa-angle-right"></i></h2>
+                          <h2>Looking for a... </h2>
                           <h4 itemprop="jobTitle"><nobr><span id="typed">Creative Brand Design &amp; Development</span></nobr></h4>
-                          <h2 class="clearfix">Well, you found one!</h2>
+                          <h2 class="clearfix">Well, you found one...<br>
+                          and a pretty great one at that!</h2>
 
-                          <h3>And a great one at that!</h3>
+                          
                             <p><span class="lead">Welcome all! It&rsquo;s a delight you&rsquo;ve finally arrived&hellip;</span></p>
 
                             <p>Welcome all! How was your trip? Sweet! Happy to hear it. You must be exhausted! Well, sit back, relax and don&rsquo;t worry about a thing! I&rsquo;ll take it from here and do all the talking. And, if you have any questions, I&rsquo;m happy to answer every one of &rsquo;em.</p>
